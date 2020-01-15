@@ -15,7 +15,7 @@
                           <h6 class="card-subtitle text-muted">ID: {{ item.variationBase.id }}</h6>
                       </div>
                       {% set image = item.variationImageList | first %}
-                      <img class="col-lg-12" src="{{ image.urlPreview }}" alt="{{ image.cleanImageName }}">
+                      <img class="col-lg-12" src="{{ image.url }}" alt="{{ image.cleanImageName }}">
                       <div class="card-block">
                           <p class="card-text">{{ item.itemDescription.description }}</p>
                       </div>
