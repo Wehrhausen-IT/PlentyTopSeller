@@ -1,0 +1,8 @@
+{
+    "name"              :"TopItems",
+    "description"       :"Mein erstes Plenty Plugin",
+    "namespace"         :"TopItems",
+    "author"            :"Florian Wehrhausen IT-Dienstleistungen",
+    "type"              :"template",
+    "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
+}
