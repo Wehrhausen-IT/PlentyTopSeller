@@ -4,5 +4,5 @@
     "namespace"         :"dev_jonas",
     "author"            :"Florian Wehrhausen IT-Dienstleistungen",
     "type"              :"template",
-    "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
+    "serviceProvider"   :"dev_jonas\\Providers\\dev_jonasServiceProvider"
 }
